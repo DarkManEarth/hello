@@ -1,1 +1,1 @@
-console.error('trying to get the github achievements simualtor') 
+console.error('trying to get the github achievements simualtor') //yes
